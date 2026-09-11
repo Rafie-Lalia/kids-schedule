@@ -1,0 +1,3030 @@
+BEGIN:VCALENDAR
+PRODID:-//AL//Josiah Kniep Class Schedule//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Josiah Kniep Class Schedule
+X-WR-TIMEZONE:Asia/Manila
+BEGIN:VEVENT
+UID:PHI-103-2026-09-08@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260908T050000
+DTEND;TZID=Asia/Manila:20260908T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026\n\nOnline/asynchronous course information for this date:
+ \nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: E
+ tchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date ra
+ nge: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting 
+ time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-09-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260910T050000
+DTEND;TZID=Asia/Manila:20260910T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026\n\nOnline/asynchronous course information for this date
+ :\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: 
+ Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date r
+ ange: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting
+  time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-09-15@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260915T050000
+DTEND;TZID=Asia/Manila:20260915T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026\n\nOnline/asynchronous course information for this date:
+ \nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: E
+ tchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date ra
+ nge: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting 
+ time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-09-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260917T050000
+DTEND;TZID=Asia/Manila:20260917T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026\n\nOnline/asynchronous course information for this date
+ :\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: 
+ Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date r
+ ange: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting
+  time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-09-22@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260922T050000
+DTEND;TZID=Asia/Manila:20260922T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026\n\nOnline/asynchronous course information for this date:
+ \nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: E
+ tchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date ra
+ nge: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting 
+ time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-09-24@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260924T050000
+DTEND;TZID=Asia/Manila:20260924T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026\n\nOnline/asynchronous course information for this date
+ :\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: 
+ Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date r
+ ange: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting
+  time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-09-29@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260929T050000
+DTEND;TZID=Asia/Manila:20260929T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026\n\nOnline/asynchronous course information for this date:
+ \nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: E
+ tchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date ra
+ nge: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting 
+ time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-10-01@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261001T050000
+DTEND;TZID=Asia/Manila:20261001T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026\n\nOnline/asynchronous course information for this date
+ :\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: 
+ Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date r
+ ange: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting
+  time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-10-06@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261006T050000
+DTEND;TZID=Asia/Manila:20261006T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026\n\nOnline/asynchronous course information for this date:
+ \nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: E
+ tchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date ra
+ nge: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting 
+ time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-10-08@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261008T050000
+DTEND;TZID=Asia/Manila:20261008T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026\n\nOnline/asynchronous course information for this date
+ :\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: 
+ Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date r
+ ange: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting
+  time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-10-13@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261013T050000
+DTEND;TZID=Asia/Manila:20261013T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026\n\nOnline/asynchronous course information for this date:
+ \nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: E
+ tchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date ra
+ nge: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting 
+ time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-10-15@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261015T050000
+DTEND;TZID=Asia/Manila:20261015T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026\n\nOnline/asynchronous course information for this date
+ :\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: 
+ Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date r
+ ange: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting
+  time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-10-20@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261020T050000
+DTEND;TZID=Asia/Manila:20261020T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026\n\nOnline/asynchronous course information for this date:
+ \nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: E
+ tchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date ra
+ nge: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting 
+ time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-10-22@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261022T050000
+DTEND;TZID=Asia/Manila:20261022T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026\n\nOnline/asynchronous course information for this date
+ :\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstructor: 
+ Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse date r
+ ange: 9/8/2026 - 10/25/2026\nThis course has no specific in-person meeting
+  time.
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-10-27@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261027T050000
+DTEND;TZID=Asia/Manila:20261027T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-10-29@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261029T050000
+DTEND;TZID=Asia/Manila:20261029T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-11-03@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261103T050000
+DTEND;TZID=Asia/Manila:20261103T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-11-05@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261105T050000
+DTEND;TZID=Asia/Manila:20261105T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-11-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261110T050000
+DTEND;TZID=Asia/Manila:20261110T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-11-12@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261112T050000
+DTEND;TZID=Asia/Manila:20261112T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-11-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261117T050000
+DTEND;TZID=Asia/Manila:20261117T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-11-19@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261119T050000
+DTEND;TZID=Asia/Manila:20261119T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-11-24@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261124T050000
+DTEND;TZID=Asia/Manila:20261124T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-11-26@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261126T050000
+DTEND;TZID=Asia/Manila:20261126T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-12-01@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261201T050000
+DTEND;TZID=Asia/Manila:20261201T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-12-03@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261203T050000
+DTEND;TZID=Asia/Manila:20261203T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-12-08@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261208T050000
+DTEND;TZID=Asia/Manila:20261208T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-12-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261210T050000
+DTEND;TZID=Asia/Manila:20261210T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-12-15@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261215T050000
+DTEND;TZID=Asia/Manila:20261215T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Tuesday\nCourse: PHI-103 - Introduction to Philosoph
+ y and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theol
+ ogy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8/
+ 2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHI-103-2026-12-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261217T050000
+DTEND;TZID=Asia/Manila:20261217T060000
+SUMMARY:PHI-103 - Introduction to Philosophy and Ethics
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Thursday\nCourse: PHI-103 - Introduction to Philosop
+ hy and Ethics\nSection: TR700A\nInstructor: Holland\, Rich\nBuilding: Theo
+ logy\nRoom: 19-100\nSemester: 2026 Fall Semester\nSchedule date range: 9/8
+ /2026 - 12/20/2026
+LOCATION:Theology\, Room 19-100
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-09-08@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260908T050000
+DTEND;TZID=Asia/Manila:20260908T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for th
+ is date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstr
+ uctor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse
+  date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person 
+ meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-09-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260910T050000
+DTEND;TZID=Asia/Manila:20260910T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for t
+ his date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInst
+ ructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCours
+ e date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person
+  meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-09-15@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260915T050000
+DTEND;TZID=Asia/Manila:20260915T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for th
+ is date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstr
+ uctor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse
+  date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person 
+ meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-09-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260917T050000
+DTEND;TZID=Asia/Manila:20260917T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for t
+ his date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInst
+ ructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCours
+ e date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person
+  meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-09-22@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260922T050000
+DTEND;TZID=Asia/Manila:20260922T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for th
+ is date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstr
+ uctor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse
+  date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person 
+ meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-09-24@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260924T050000
+DTEND;TZID=Asia/Manila:20260924T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for t
+ his date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInst
+ ructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCours
+ e date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person
+  meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-09-29@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260929T050000
+DTEND;TZID=Asia/Manila:20260929T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for th
+ is date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstr
+ uctor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse
+  date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person 
+ meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-10-01@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261001T050000
+DTEND;TZID=Asia/Manila:20261001T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for t
+ his date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInst
+ ructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCours
+ e date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person
+  meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-10-06@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261006T050000
+DTEND;TZID=Asia/Manila:20261006T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for th
+ is date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstr
+ uctor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse
+  date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person 
+ meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-10-08@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261008T050000
+DTEND;TZID=Asia/Manila:20261008T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for t
+ his date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInst
+ ructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCours
+ e date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person
+  meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-10-13@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261013T050000
+DTEND;TZID=Asia/Manila:20261013T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for th
+ is date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstr
+ uctor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse
+  date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person 
+ meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-10-15@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261015T050000
+DTEND;TZID=Asia/Manila:20261015T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for t
+ his date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInst
+ ructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCours
+ e date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person
+  meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-10-20@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261020T050000
+DTEND;TZID=Asia/Manila:20261020T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for th
+ is date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInstr
+ uctor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCourse
+  date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person 
+ meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-10-22@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261022T050000
+DTEND;TZID=Asia/Manila:20261022T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course information for t
+ his date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB26\nInst
+ ructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronous\nCours
+ e date range: 9/8/2026 - 10/25/2026\nThis course has no specific in-person
+  meeting time.
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-10-27@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261027T050000
+DTEND;TZID=Asia/Manila:20261027T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-10-29@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261029T050000
+DTEND;TZID=Asia/Manila:20261029T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-11-03@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261103T050000
+DTEND;TZID=Asia/Manila:20261103T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-11-05@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261105T050000
+DTEND;TZID=Asia/Manila:20261105T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-11-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261110T050000
+DTEND;TZID=Asia/Manila:20261110T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-11-12@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261112T050000
+DTEND;TZID=Asia/Manila:20261112T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-11-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261117T050000
+DTEND;TZID=Asia/Manila:20261117T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-11-19@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261119T050000
+DTEND;TZID=Asia/Manila:20261119T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-11-24@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261124T050000
+DTEND;TZID=Asia/Manila:20261124T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-11-26@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261126T050000
+DTEND;TZID=Asia/Manila:20261126T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-12-01@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261201T050000
+DTEND;TZID=Asia/Manila:20261201T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-12-03@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261203T050000
+DTEND;TZID=Asia/Manila:20261203T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-12-08@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261208T050000
+DTEND;TZID=Asia/Manila:20261208T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-12-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261210T050000
+DTEND;TZID=Asia/Manila:20261210T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-12-15@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261215T050000
+DTEND;TZID=Asia/Manila:20261215T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Tuesday\nCourse: MAT-154 - Applications of College 
+ Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West L
+ ecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ran
+ ge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MAT-154-2026-12-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261217T050000
+DTEND;TZID=Asia/Manila:20261217T060000
+SUMMARY:MAT-154 - Applications of College Algebra
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 9:00 AM - 
+ 10:45 AM\nMeeting day: Thursday\nCourse: MAT-154 - Applications of College
+  Algebra\nSection: TR900A\nInstructor: Benavides\, Carmen\nBuilding: West 
+ Lecture Hall\nRoom: 22-103\nSemester: 2026 Fall Semester\nSchedule date ra
+ nge: 9/8/2026 - 12/20/2026
+LOCATION:West Lecture Hall\, Room 22-103
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-09-14@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260914T050000
+DTEND;TZID=Asia/Manila:20260914T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course informati
+ on for this date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB
+ 26\nInstructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronou
+ s\nCourse date range: 9/8/2026 - 10/25/2026\nThis course has no specific i
+ n-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-09-21@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260921T050000
+DTEND;TZID=Asia/Manila:20260921T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course informati
+ on for this date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB
+ 26\nInstructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronou
+ s\nCourse date range: 9/8/2026 - 10/25/2026\nThis course has no specific i
+ n-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-09-28@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20260928T050000
+DTEND;TZID=Asia/Manila:20260928T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course informati
+ on for this date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB
+ 26\nInstructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronou
+ s\nCourse date range: 9/8/2026 - 10/25/2026\nThis course has no specific i
+ n-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-10-05@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261005T050000
+DTEND;TZID=Asia/Manila:20261005T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course informati
+ on for this date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB
+ 26\nInstructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronou
+ s\nCourse date range: 9/8/2026 - 10/25/2026\nThis course has no specific i
+ n-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-10-12@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261012T050000
+DTEND;TZID=Asia/Manila:20261012T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course informati
+ on for this date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB
+ 26\nInstructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronou
+ s\nCourse date range: 9/8/2026 - 10/25/2026\nThis course has no specific i
+ n-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-10-19@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261019T050000
+DTEND;TZID=Asia/Manila:20261019T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026\n\nOnline/asynchronous course informati
+ on for this date:\nUNV-106 - University On-Campus Success\nSection: TOCCOB
+ 26\nInstructor: Etchebarren\, Angela\nMeeting schedule: Online/Asynchronou
+ s\nCourse date range: 9/8/2026 - 10/25/2026\nThis course has no specific i
+ n-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-10-26@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261026T050000
+DTEND;TZID=Asia/Manila:20261026T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-11-02@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261102T050000
+DTEND;TZID=Asia/Manila:20261102T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-11-09@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261109T050000
+DTEND;TZID=Asia/Manila:20261109T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-11-16@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261116T050000
+DTEND;TZID=Asia/Manila:20261116T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-11-23@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261123T050000
+DTEND;TZID=Asia/Manila:20261123T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-11-30@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261130T050000
+DTEND;TZID=Asia/Manila:20261130T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-12-07@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261207T050000
+DTEND;TZID=Asia/Manila:20261207T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:BIT-200-2026-12-14@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20261214T050000
+DTEND;TZID=Asia/Manila:20261214T060000
+SUMMARY:BIT-200 - Introduction to Computer Technology
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 3:00 PM - 
+ 4:45 PM\nMeeting day: Monday\nCourse: BIT-200 - Introduction to Computer T
+ echnology\nSection: M300B\nInstructor: Maxwell\, Lori\nBuilding: Colangelo
+  College of Business\nRoom: 42-182\nSemester: 2026 Fall Semester\nSchedule
+  date range: 9/8/2026 - 12/20/2026
+LOCATION:Colangelo College of Business\, Room 42-182
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-01-06@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270106T050000
+DTEND;TZID=Asia/Manila:20270106T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-01-08@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270108T050000
+DTEND;TZID=Asia/Manila:20270108T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-01-13@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270113T050000
+DTEND;TZID=Asia/Manila:20270113T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-01-15@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270115T050000
+DTEND;TZID=Asia/Manila:20270115T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-01-20@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270120T050000
+DTEND;TZID=Asia/Manila:20270120T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-01-22@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270122T050000
+DTEND;TZID=Asia/Manila:20270122T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-01-27@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270127T050000
+DTEND;TZID=Asia/Manila:20270127T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-01-29@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270129T050000
+DTEND;TZID=Asia/Manila:20270129T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-02-03@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270203T050000
+DTEND;TZID=Asia/Manila:20270203T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-02-05@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270205T050000
+DTEND;TZID=Asia/Manila:20270205T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-02-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270210T050000
+DTEND;TZID=Asia/Manila:20270210T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-02-12@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270212T050000
+DTEND;TZID=Asia/Manila:20270212T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-02-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270217T050000
+DTEND;TZID=Asia/Manila:20270217T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-02-19@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270219T050000
+DTEND;TZID=Asia/Manila:20270219T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-02-24@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270224T050000
+DTEND;TZID=Asia/Manila:20270224T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-02-26@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270226T050000
+DTEND;TZID=Asia/Manila:20270226T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-03-03@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270303T050000
+DTEND;TZID=Asia/Manila:20270303T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-03-05@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270305T050000
+DTEND;TZID=Asia/Manila:20270305T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-03-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270310T050000
+DTEND;TZID=Asia/Manila:20270310T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-03-12@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270312T050000
+DTEND;TZID=Asia/Manila:20270312T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-03-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270317T050000
+DTEND;TZID=Asia/Manila:20270317T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-03-19@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270319T050000
+DTEND;TZID=Asia/Manila:20270319T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-03-24@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270324T050000
+DTEND;TZID=Asia/Manila:20270324T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-03-26@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270326T050000
+DTEND;TZID=Asia/Manila:20270326T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-03-31@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270331T050000
+DTEND;TZID=Asia/Manila:20270331T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-04-02@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270402T050000
+DTEND;TZID=Asia/Manila:20270402T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-04-07@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270407T050000
+DTEND;TZID=Asia/Manila:20270407T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-04-09@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270409T050000
+DTEND;TZID=Asia/Manila:20270409T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-04-14@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270414T050000
+DTEND;TZID=Asia/Manila:20270414T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-04-16@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270416T050000
+DTEND;TZID=Asia/Manila:20270416T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-04-21@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270421T050000
+DTEND;TZID=Asia/Manila:20270421T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Wednesday\nCourse: MKT-315 - Introduction to Marketi
+ ng\nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo Coll
+ ege of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule da
+ te range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information f
+ or this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor
+ : Sauls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date rang
+ e: 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting tim
+ e.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MKT-315-2027-04-23@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270423T050000
+DTEND;TZID=Asia/Manila:20270423T060000
+SUMMARY:MKT-315 - Introduction to Marketing
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 7:00 AM - 
+ 8:45 AM\nMeeting day: Friday\nCourse: MKT-315 - Introduction to Marketing\
+ nSection: WF700A\nInstructor: Staff\, Faculty\nBuilding: Colangelo College
+  of Business\nRoom: 42-213\nSemester: 2027 Spring Semester\nSchedule date 
+ range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for 
+ this date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: S
+ auls\, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 
+ 1/4/2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-213
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-01-06@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270106T050000
+DTEND;TZID=Asia/Manila:20270106T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-01-08@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270108T050000
+DTEND;TZID=Asia/Manila:20270108T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-01-13@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270113T050000
+DTEND;TZID=Asia/Manila:20270113T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-01-15@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270115T050000
+DTEND;TZID=Asia/Manila:20270115T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-01-20@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270120T050000
+DTEND;TZID=Asia/Manila:20270120T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-01-22@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270122T050000
+DTEND;TZID=Asia/Manila:20270122T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-01-27@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270127T050000
+DTEND;TZID=Asia/Manila:20270127T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-01-29@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270129T050000
+DTEND;TZID=Asia/Manila:20270129T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-02-03@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270203T050000
+DTEND;TZID=Asia/Manila:20270203T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-02-05@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270205T050000
+DTEND;TZID=Asia/Manila:20270205T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-02-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270210T050000
+DTEND;TZID=Asia/Manila:20270210T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-02-12@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270212T050000
+DTEND;TZID=Asia/Manila:20270212T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-02-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270217T050000
+DTEND;TZID=Asia/Manila:20270217T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-02-19@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270219T050000
+DTEND;TZID=Asia/Manila:20270219T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-02-24@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270224T050000
+DTEND;TZID=Asia/Manila:20270224T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-02-26@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270226T050000
+DTEND;TZID=Asia/Manila:20270226T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-03-03@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270303T050000
+DTEND;TZID=Asia/Manila:20270303T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-03-05@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270305T050000
+DTEND;TZID=Asia/Manila:20270305T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-03-10@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270310T050000
+DTEND;TZID=Asia/Manila:20270310T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-03-12@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270312T050000
+DTEND;TZID=Asia/Manila:20270312T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-03-17@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270317T050000
+DTEND;TZID=Asia/Manila:20270317T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-03-19@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270319T050000
+DTEND;TZID=Asia/Manila:20270319T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-03-24@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270324T050000
+DTEND;TZID=Asia/Manila:20270324T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-03-26@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270326T050000
+DTEND;TZID=Asia/Manila:20270326T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-03-31@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270331T050000
+DTEND;TZID=Asia/Manila:20270331T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-04-02@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270402T050000
+DTEND;TZID=Asia/Manila:20270402T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-04-07@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270407T050000
+DTEND;TZID=Asia/Manila:20270407T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-04-09@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270409T050000
+DTEND;TZID=Asia/Manila:20270409T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-04-14@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270414T050000
+DTEND;TZID=Asia/Manila:20270414T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-04-16@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270416T050000
+DTEND;TZID=Asia/Manila:20270416T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-04-21@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270421T050000
+DTEND;TZID=Asia/Manila:20270421T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Wednesday\nCourse: CWV-101 - Christian Worldview\nSe
+ ction: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Bu
+ siness\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date rang
+ e: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this
+  date:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls
+ \, Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/
+ 2027 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CWV-101-2027-04-23@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270423T050000
+DTEND;TZID=Asia/Manila:20270423T060000
+SUMMARY:CWV-101 - Christian Worldview
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Friday\nCourse: CWV-101 - Christian Worldview\nSecti
+ on: WF100C\nInstructor: Lamca\, Chip\nBuilding: Colangelo College of Busin
+ ess\nRoom: 42-216/8\nSemester: 2027 Spring Semester\nSchedule date range: 
+ 1/4/2027 - 4/25/2027\n\nOnline/asynchronous course information for this da
+ te:\nBIO-220 - Environmental Science\nSection: TO118\nInstructor: Sauls\, 
+ Bradley\nMeeting schedule: Online/Asynchronous\nCourse date range: 1/4/202
+ 7 - 4/25/2027\nThis course has no specific in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-216/8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-01-05@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270105T050000
+DTEND;TZID=Asia/Manila:20270105T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-01-07@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270107T050000
+DTEND;TZID=Asia/Manila:20270107T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-01-12@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270112T050000
+DTEND;TZID=Asia/Manila:20270112T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-01-14@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270114T050000
+DTEND;TZID=Asia/Manila:20270114T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-01-19@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270119T050000
+DTEND;TZID=Asia/Manila:20270119T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-01-21@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270121T050000
+DTEND;TZID=Asia/Manila:20270121T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-01-26@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270126T050000
+DTEND;TZID=Asia/Manila:20270126T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-01-28@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270128T050000
+DTEND;TZID=Asia/Manila:20270128T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-02-02@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270202T050000
+DTEND;TZID=Asia/Manila:20270202T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-02-04@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270204T050000
+DTEND;TZID=Asia/Manila:20270204T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-02-09@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270209T050000
+DTEND;TZID=Asia/Manila:20270209T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-02-11@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270211T050000
+DTEND;TZID=Asia/Manila:20270211T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-02-16@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270216T050000
+DTEND;TZID=Asia/Manila:20270216T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-02-18@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270218T050000
+DTEND;TZID=Asia/Manila:20270218T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-02-23@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270223T050000
+DTEND;TZID=Asia/Manila:20270223T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-02-25@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270225T050000
+DTEND;TZID=Asia/Manila:20270225T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-03-02@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270302T050000
+DTEND;TZID=Asia/Manila:20270302T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-03-04@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270304T050000
+DTEND;TZID=Asia/Manila:20270304T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-03-09@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270309T050000
+DTEND;TZID=Asia/Manila:20270309T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-03-11@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270311T050000
+DTEND;TZID=Asia/Manila:20270311T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-03-16@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270316T050000
+DTEND;TZID=Asia/Manila:20270316T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-03-18@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270318T050000
+DTEND;TZID=Asia/Manila:20270318T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-03-23@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270323T050000
+DTEND;TZID=Asia/Manila:20270323T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-03-25@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270325T050000
+DTEND;TZID=Asia/Manila:20270325T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-03-30@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270330T050000
+DTEND;TZID=Asia/Manila:20270330T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-04-01@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270401T050000
+DTEND;TZID=Asia/Manila:20270401T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-04-06@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270406T050000
+DTEND;TZID=Asia/Manila:20270406T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-04-08@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270408T050000
+DTEND;TZID=Asia/Manila:20270408T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-04-13@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270413T050000
+DTEND;TZID=Asia/Manila:20270413T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-04-15@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270415T050000
+DTEND;TZID=Asia/Manila:20270415T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-04-20@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270420T050000
+DTEND;TZID=Asia/Manila:20270420T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Tuesday\nCourse: MGT-325 - Managing Business Communi
+ cations and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuild
+ ing: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring 
+ Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronous
+  course information for this date:\nBIO-220 - Environmental Science\nSecti
+ on: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchron
+ ous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific 
+ in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:MGT-325-2027-04-22@al-calendar
+DTSTAMP:20260911T114947Z
+DTSTART;TZID=Asia/Manila:20270422T050000
+DTEND;TZID=Asia/Manila:20270422T060000
+SUMMARY:MGT-325 - Managing Business Communications and Change
+DESCRIPTION:Calendar time: 5:00 AM - 6:00 AM\nActual class time: 1:00 PM - 
+ 2:45 PM\nMeeting day: Thursday\nCourse: MGT-325 - Managing Business Commun
+ ications and Change\nSection: TR100A\nInstructor: Parafinik\, Aminda\nBuil
+ ding: Colangelo College of Business\nRoom: 42-221/3\nSemester: 2027 Spring
+  Semester\nSchedule date range: 1/4/2027 - 4/25/2027\n\nOnline/asynchronou
+ s course information for this date:\nBIO-220 - Environmental Science\nSect
+ ion: TO118\nInstructor: Sauls\, Bradley\nMeeting schedule: Online/Asynchro
+ nous\nCourse date range: 1/4/2027 - 4/25/2027\nThis course has no specific
+  in-person meeting time.
+LOCATION:Colangelo College of Business\, Room 42-221/3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
