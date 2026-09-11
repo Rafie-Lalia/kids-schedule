@@ -1,0 +1,1667 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Roger Kniep Fall 2026 School Schedule V5//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RJ School 2026-2027 Updated V5
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:roger-kniep-20260817-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260817T081500
+DTEND;TZID=America/Chicago:20260817T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260818-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260818T081500
+DTEND;TZID=America/Chicago:20260818T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260819-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260819T081500
+DTEND;TZID=America/Chicago:20260819T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260820-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260820T081500
+DTEND;TZID=America/Chicago:20260820T150000
+SUMMARY:Roger Gold Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:30-9:45 AM - Break\n9:45-11:00 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:00-11:45 AM - Chapel\n11:50 AM-1:05 PM - Period 6: Cons
+ umer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 PM - Lunch / meetings
+  / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260821-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260821T081500
+DTEND;TZID=America/Chicago:20260821T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260824-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260824T081500
+DTEND;TZID=America/Chicago:20260824T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260825-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260825T081500
+DTEND;TZID=America/Chicago:20260825T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260826-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260826T081500
+DTEND;TZID=America/Chicago:20260826T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260827-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260827T081500
+DTEND;TZID=America/Chicago:20260827T130500
+SUMMARY:Roger Purple Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:30 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:30-9:45 AM - Break\n9:45-11:00 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:00-11:45 AM
+  - Chapel\n11:50 AM-1:05 PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 
+ 101)\n1:05 PM - Roger dismissal\nPeriod 7 later in the day: Seventh Hour R
+ elease S1 (Rachel Downing\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260828-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260828T081500
+DTEND;TZID=America/Chicago:20260828T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260831-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260831T081500
+DTEND;TZID=America/Chicago:20260831T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260901-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260901T081500
+DTEND;TZID=America/Chicago:20260901T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260902-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260902T081500
+DTEND;TZID=America/Chicago:20260902T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260903-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260903T081500
+DTEND;TZID=America/Chicago:20260903T150000
+SUMMARY:Roger Gold Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:30-9:45 AM - Break\n9:45-11:00 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:00-11:45 AM - Chapel\n11:50 AM-1:05 PM - Period 6: Cons
+ umer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 PM - Lunch / meetings
+  / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260904-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260904T081500
+DTEND;TZID=America/Chicago:20260904T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260907-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Roger - No School
+DESCRIPTION:Peoria Christian School High School\nLabor Day - No School
+LOCATION:Peoria Christian School High School
+CATEGORIES:No School,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260908-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260908T081500
+DTEND;TZID=America/Chicago:20260908T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260909-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260909T081500
+DTEND;TZID=America/Chicago:20260909T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260910-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260910T081500
+DTEND;TZID=America/Chicago:20260910T150000
+SUMMARY:Roger Gold Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:30-9:45 AM - Break\n9:45-11:00 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:00-11:45 AM - Chapel\n11:50 AM-1:05 PM - Period 6: Cons
+ umer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 PM - Lunch / meetings
+  / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260911-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260911T081500
+DTEND;TZID=America/Chicago:20260911T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260914-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260914T081500
+DTEND;TZID=America/Chicago:20260914T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260915-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260915T081500
+DTEND;TZID=America/Chicago:20260915T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260916-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260916T081500
+DTEND;TZID=America/Chicago:20260916T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260917-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260917T081500
+DTEND;TZID=America/Chicago:20260917T130500
+SUMMARY:Roger Purple Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:30 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:30-9:45 AM - Break\n9:45-11:00 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:00-11:45 AM
+  - Chapel\n11:50 AM-1:05 PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 
+ 101)\n1:05 PM - Roger dismissal\nPeriod 7 later in the day: Seventh Hour R
+ elease S1 (Rachel Downing\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260918-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260918T081500
+DTEND;TZID=America/Chicago:20260918T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260921-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260921T081500
+DTEND;TZID=America/Chicago:20260921T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260922-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260922T081500
+DTEND;TZID=America/Chicago:20260922T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260923-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260923T081500
+DTEND;TZID=America/Chicago:20260923T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260924-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260924T081500
+DTEND;TZID=America/Chicago:20260924T150000
+SUMMARY:Roger Gold Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:30-9:45 AM - Break\n9:45-11:00 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:00-11:45 AM - Chapel\n11:50 AM-1:05 PM - Period 6: Cons
+ umer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 PM - Lunch / meetings
+  / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260925-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260925T081500
+DTEND;TZID=America/Chicago:20260925T123500
+SUMMARY:Roger - Homecoming Half-Day Special Schedule
+DESCRIPTION:Peoria Christian School High School\nHomecoming Pep Assembly - 
+ Half-Day Special Schedule\n\n8:15-8:45 AM - Period 1: Foundations of Entre
+ preneurship S1 (Jennie Ramsey\, Room 107)\n8:45-9:15 AM - Period 2: US His
+ tory S1 (Tim Schoon\, Room 215)\n9:15-9:45 AM - Period 3: Understanding th
+ e Culture I S1 (Tom A. Schlich\, Room 208)\n9:45-9:55 AM - Break\n9:55-10:
+ 25 AM - Period 4: English 11 S1 (Mary Anderson\, Room 214)\n10:25-10:55 AM
+  - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n10:55-11:05 AM - Brea
+ k\n11:05-11:35 AM - Period 6: Consumer Education (Jennie Ramsey\, Room 107
+ )\n11:35 AM-12:05 PM - Period 7: Seventh Hour Release S1 (Rachel Downing\,
+  off campus\; no class)\n12:05-12:35 PM - Period 8: Algebra 2 S1 (Philip T
+ aylor\, Room 203)\n12:35 PM - Dismissal
+LOCATION:Peoria Christian School High School
+CATEGORIES:Special Schedule\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260928-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260928T081500
+DTEND;TZID=America/Chicago:20260928T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260929-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260929T081500
+DTEND;TZID=America/Chicago:20260929T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20260930-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20260930T081500
+DTEND;TZID=America/Chicago:20260930T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261001-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261001T081500
+DTEND;TZID=America/Chicago:20261001T150000
+SUMMARY:Roger Gold Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:30-9:45 AM - Break\n9:45-11:00 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:00-11:45 AM - Chapel\n11:50 AM-1:05 PM - Period 6: Cons
+ umer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 PM - Lunch / meetings
+  / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261002-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261002T081500
+DTEND;TZID=America/Chicago:20261002T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261005-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261005T081500
+DTEND;TZID=America/Chicago:20261005T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261006-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261006T081500
+DTEND;TZID=America/Chicago:20261006T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261007-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261007T081500
+DTEND;TZID=America/Chicago:20261007T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261008-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261008T081500
+DTEND;TZID=America/Chicago:20261008T130500
+SUMMARY:Roger Purple Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:30 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:30-9:45 AM - Break\n9:45-11:00 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:00-11:45 AM
+  - Chapel\n11:50 AM-1:05 PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 
+ 101)\n1:05 PM - Roger dismissal\nPeriod 7 later in the day: Seventh Hour R
+ elease S1 (Rachel Downing\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261009-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261009T081500
+DTEND;TZID=America/Chicago:20261009T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261012-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261012T081500
+DTEND;TZID=America/Chicago:20261012T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261013-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261013T081500
+DTEND;TZID=America/Chicago:20261013T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261014-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261014T081500
+DTEND;TZID=America/Chicago:20261014T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261015-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261015T081500
+DTEND;TZID=America/Chicago:20261015T150000
+SUMMARY:Roger Gold Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:30-9:45 AM - Break\n9:45-11:00 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:00-11:45 AM - Chapel\n11:50 AM-1:05 PM - Period 6: Cons
+ umer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 PM - Lunch / meetings
+  / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261016-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261016T081500
+DTEND;TZID=America/Chicago:20261016T123500
+SUMMARY:Roger Purple Day - Half-Day Special Schedule
+DESCRIPTION:Peoria Christian School High School\nHalf Day / Teacher In-Serv
+ ice - All-Periods Special Schedule\n\n8:15-8:45 AM - Period 1: Foundations
+  of Entrepreneurship S1 (Jennie Ramsey\, Room 107)\n8:45-9:15 AM - Period 
+ 2: US History S1 (Tim Schoon\, Room 215)\n9:15-9:45 AM - Period 3: Underst
+ anding the Culture I S1 (Tom A. Schlich\, Room 208)\n9:45-9:55 AM - Break\
+ n9:55-10:25 AM - Period 4: English 11 S1 (Mary Anderson\, Room 214)\n10:25
+ -10:55 AM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n10:55-11:05 
+ AM - Break\n11:05-11:35 AM - Period 6: Consumer Education (Jennie Ramsey\,
+  Room 107)\n11:35 AM-12:05 PM - Period 7: Seventh Hour Release S1 (Rachel 
+ Downing\, off campus\; no class)\n12:05-12:35 PM - Period 8: Algebra 2 S1 
+ (Philip Taylor\, Room 203)\n12:35 PM - Dismissal
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,Special Schedule\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261019-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261019T081500
+DTEND;TZID=America/Chicago:20261019T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261020-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261020T081500
+DTEND;TZID=America/Chicago:20261020T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261021-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261021T081500
+DTEND;TZID=America/Chicago:20261021T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261022-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261022T081500
+DTEND;TZID=America/Chicago:20261022T130500
+SUMMARY:Roger Purple Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:30 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:30-9:45 AM - Break\n9:45-11:00 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:00-11:45 AM
+  - Chapel\n11:50 AM-1:05 PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 
+ 101)\n1:05 PM - Roger dismissal\nPeriod 7 later in the day: Seventh Hour R
+ elease S1 (Rachel Downing\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261023-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261023T081500
+DTEND;TZID=America/Chicago:20261023T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261026-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261026T081500
+DTEND;TZID=America/Chicago:20261026T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261027-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261027T081500
+DTEND;TZID=America/Chicago:20261027T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261028-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261028T081500
+DTEND;TZID=America/Chicago:20261028T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261029-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Roger - No School
+DESCRIPTION:Peoria Christian School High School\nParent-Teacher-Student Con
+ ferences - No Classes
+LOCATION:Peoria Christian School High School
+CATEGORIES:No School,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261030-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Roger - No School
+DESCRIPTION:Peoria Christian School High School\nNo School
+LOCATION:Peoria Christian School High School
+CATEGORIES:No School,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261102-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261102T081500
+DTEND;TZID=America/Chicago:20261102T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261103-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261103T081500
+DTEND;TZID=America/Chicago:20261103T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261104-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261104T081500
+DTEND;TZID=America/Chicago:20261104T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261105-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261105T081500
+DTEND;TZID=America/Chicago:20261105T130500
+SUMMARY:Roger Purple Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:30 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:30-9:45 AM - Break\n9:45-11:00 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:00-11:45 AM
+  - Chapel\n11:50 AM-1:05 PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 
+ 101)\n1:05 PM - Roger dismissal\nPeriod 7 later in the day: Seventh Hour R
+ elease S1 (Rachel Downing\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261106-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261106T081500
+DTEND;TZID=America/Chicago:20261106T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261109-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261109T081500
+DTEND;TZID=America/Chicago:20261109T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261110-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261110T081500
+DTEND;TZID=America/Chicago:20261110T150000
+SUMMARY:Roger Gold Day - Veterans Day Chapel
+DESCRIPTION:Peoria Christian School High School\nVeterans Day Chapel - Gold
+  Special Schedule\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, 
+ Room 215)\n9:30-10:45 AM - Veterans Day Chapel / transition block\n10:45-1
+ 1:55 AM - Period 4: English 11 S1 (Mary Anderson\, Room 214)\n11:55 AM-1:0
+ 5 PM - Period 6: Consumer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 
+ PM - Lunch / meetings / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Phil
+ ip Taylor\, Room 203)\nNote: PowerSchool does not divide the exact chapel 
+ and transition time inside the 9:30-10:45 AM block.
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Special Schedule\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261111-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261111T081500
+DTEND;TZID=America/Chicago:20261111T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261112-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261112T081500
+DTEND;TZID=America/Chicago:20261112T150000
+SUMMARY:Roger Gold Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:30-9:45 AM - Break\n9:45-11:00 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:00-11:45 AM - Chapel\n11:50 AM-1:05 PM - Period 6: Cons
+ umer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 PM - Lunch / meetings
+  / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261113-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261113T081500
+DTEND;TZID=America/Chicago:20261113T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261116-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261116T081500
+DTEND;TZID=America/Chicago:20261116T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261117-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261117T081500
+DTEND;TZID=America/Chicago:20261117T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261118-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261118T081500
+DTEND;TZID=America/Chicago:20261118T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261119-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261119T081500
+DTEND;TZID=America/Chicago:20261119T130500
+SUMMARY:Roger Purple Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:30 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:30-9:45 AM - Break\n9:45-11:00 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:00-11:45 AM
+  - Chapel\n11:50 AM-1:05 PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 
+ 101)\n1:05 PM - Roger dismissal\nPeriod 7 later in the day: Seventh Hour R
+ elease S1 (Rachel Downing\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261120-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261120T081500
+DTEND;TZID=America/Chicago:20261120T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261123-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261123T081500
+DTEND;TZID=America/Chicago:20261123T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261124-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261124T081500
+DTEND;TZID=America/Chicago:20261124T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261125-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Roger - No School
+DESCRIPTION:Peoria Christian School High School\nNo School
+LOCATION:Peoria Christian School High School
+CATEGORIES:No School,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261126-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Roger - No School
+DESCRIPTION:Peoria Christian School High School\nThanksgiving - No School
+LOCATION:Peoria Christian School High School
+CATEGORIES:No School,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261127-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Roger - No School
+DESCRIPTION:Peoria Christian School High School\nNo School
+LOCATION:Peoria Christian School High School
+CATEGORIES:No School,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261130-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261130T081500
+DTEND;TZID=America/Chicago:20261130T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261201-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261201T081500
+DTEND;TZID=America/Chicago:20261201T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261202-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261202T081500
+DTEND;TZID=America/Chicago:20261202T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261203-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261203T081500
+DTEND;TZID=America/Chicago:20261203T150000
+SUMMARY:Roger Gold Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:30-9:45 AM - Break\n9:45-11:00 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:00-11:45 AM - Chapel\n11:50 AM-1:05 PM - Period 6: Cons
+ umer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 PM - Lunch / meetings
+  / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261204-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261204T081500
+DTEND;TZID=America/Chicago:20261204T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261207-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261207T081500
+DTEND;TZID=America/Chicago:20261207T150000
+SUMMARY:Roger Gold Day
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (Jennie R
+ amsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3:00 PM 
+ - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261208-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261208T081500
+DTEND;TZID=America/Chicago:20261208T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261209-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261209T081500
+DTEND;TZID=America/Chicago:20261209T150000
+SUMMARY:Roger - All-School Christmas Chapel Special Schedule
+DESCRIPTION:Peoria Christian School High School\nAll-School Christmas Chape
+ l Special Schedule\n\n8:15-10:40 AM - Period 2 block: US History S1 (Tim S
+ choon\, Room 215)\n10:45-11:55 AM - Period 4: English 11 S1 (Mary Anderson
+ \, Room 214)\n12:00-1:10 PM - Period 6: Consumer Education (Jennie Ramsey\
+ , Room 107)\n1:10-1:55 PM - Lunch / meetings / break\n1:55-3:00 PM - Perio
+ d 8: Algebra 2 S1 (Philip Taylor\, Room 203)\nNote: PowerSchool includes t
+ he Christmas chapel window in its special schedule but does not list chape
+ l as a separate timed block.
+LOCATION:Peoria Christian School High School
+CATEGORIES:Special Schedule\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261210-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261210T081500
+DTEND;TZID=America/Chicago:20261210T150000
+SUMMARY:Roger Gold Day - Chapel
+DESCRIPTION:Peoria Christian School High School\nGold Day - Periods 2\, 4\,
+  6\, 8\n\n8:15-9:30 AM - Period 2: US History S1 (Tim Schoon\, Room 215)\n
+ 9:30-9:45 AM - Break\n9:45-11:00 AM - Period 4: English 11 S1 (Mary Anders
+ on\, Room 214)\n11:00-11:45 AM - Chapel\n11:50 AM-1:05 PM - Period 6: Cons
+ umer Education (Jennie Ramsey\, Room 107)\n1:05-1:42 PM - Lunch / meetings
+  / break\n1:45-3:00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Chapel\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261211-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261211T081500
+DTEND;TZID=America/Chicago:20261211T125000
+SUMMARY:Roger Purple Day
+DESCRIPTION:Peoria Christian School High School\nPurple Day - Periods 1\, 3
+ \, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurship S1 (J
+ ennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 3: 
+ Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 AM-12:50
+  PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - Roger d
+ ismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rachel Downi
+ ng\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261214-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261214T081500
+DTEND;TZID=America/Chicago:20261214T125000
+SUMMARY:Roger Purple Day - Review Day
+DESCRIPTION:Peoria Christian School High School\nPurple Review Day - Period
+ s 1\, 3\, 5\, 7\n\n8:15-9:40 AM - Period 1: Foundations of Entrepreneurshi
+ p S1 (Jennie Ramsey\, Room 107)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Per
+ iod 3: Understanding the Culture I S1 (Tom A. Schlich\, Room 208)\n11:25 A
+ M-12:50 PM - Period 5: Chemistry S1 (Tobey Hauter\, Room 101)\n12:50 PM - 
+ Roger dismissal\nPeriod 7 later in the day: Seventh Hour Release S1 (Rache
+ l Downing\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Purple Day\,Review Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261215-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261215T081500
+DTEND;TZID=America/Chicago:20261215T150000
+SUMMARY:Roger Gold Day - Review Day
+DESCRIPTION:Peoria Christian School High School\nGold Review Day - Periods 
+ 2\, 4\, 6\, 8\n\n8:15-9:40 AM - Period 2: US History S1 (Tim Schoon\, Room
+  215)\n9:40-9:55 AM - Break\n9:55-11:20 AM - Period 4: English 11 S1 (Mary
+  Anderson\, Room 214)\n11:25 AM-12:50 PM - Period 6: Consumer Education (J
+ ennie Ramsey\, Room 107)\n12:50-1:32 PM - Lunch / meetings / break\n1:35-3
+ :00 PM - Period 8: Algebra 2 S1 (Philip Taylor\, Room 203)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Gold Day\,Review Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261216-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261216T081500
+DTEND;TZID=America/Chicago:20261216T115000
+SUMMARY:Roger - Exam Day
+DESCRIPTION:Peoria Christian School High School\nSemester Exams\n\n8:15-9:5
+ 0 AM - Period 5 Exam: Chemistry S1 (Tobey Hauter\, Room 101)\n9:50-10:15 A
+ M - Break\n10:15-11:50 AM - Period 6 Exam: Consumer Education (Jennie Rams
+ ey\, Room 107)\n11:50 AM - Roger dismissal\n12:30-2:05 PM - Period 7: Seve
+ nth Hour Release S1 (Rachel Downing\, off campus\; no class)
+LOCATION:Peoria Christian School High School
+CATEGORIES:Exams\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261217-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261217T081500
+DTEND;TZID=America/Chicago:20261217T140500
+SUMMARY:Roger - Exam Day
+DESCRIPTION:Peoria Christian School High School\nSemester Exams\n\n8:15-9:5
+ 0 AM - Period 2 Exam: US History S1 (Tim Schoon\, Room 215)\n9:50-10:15 AM
+  - Break\n10:15-11:50 AM - Period 3 Exam: Understanding the Culture I S1 (
+ Tom A. Schlich\, Room 208)\n11:50 AM-12:30 PM - Break / lunch\n12:30-2:05 
+ PM - Period 4 Exam: English 11 S1 (Mary Anderson\, Room 214)\n2:05 PM - Di
+ smissal
+LOCATION:Peoria Christian School High School
+CATEGORIES:Exams\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:roger-kniep-20261218-v5@openai
+DTSTAMP:20260911T000000Z
+DTSTART;TZID=America/Chicago:20261218T081500
+DTEND;TZID=America/Chicago:20261218T115000
+SUMMARY:Roger - Exams Half Day
+DESCRIPTION:Peoria Christian School High School\nSemester Exams - Half Day\
+ n\n8:15-9:50 AM - Period 1 Exam: Foundations of Entrepreneurship S1 (Jenni
+ e Ramsey\, Room 107)\n9:50-10:15 AM - Break\n10:15-11:50 AM - Period 8 Exa
+ m: Algebra 2 S1 (Philip Taylor\, Room 203)\n11:50 AM - Dismissal
+LOCATION:Peoria Christian School High School
+CATEGORIES:Exams\,Half Day\,School
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
